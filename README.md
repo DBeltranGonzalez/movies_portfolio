@@ -1,6 +1,6 @@
 # Movies Project (Data Analyst)
 
-Mi nombre es Diego Beltrán y en el futuro quiero trabajar profesionalmente en el mundo del Data Science, para ello mi primer paso es adquirir las competencias básicas requeridas para convertirme en Analista de Datos.
+Mi nombre es Diego Beltrán y en el futuro quiero trabajar profesionalmente en el mundo del Data Science, para ello mi primer paso es adquirir las competencias básicas requeridas para convertirme en Analista de Datos, es por ello que abro este portafolio en GitHub.
 
 A la fecha de hoy que inicio este proyecto tengo conocimientos y sé usar varias de las herramientas necesarias para trabajar como Data Analyst, sin embargo a la fecha no tengo forma de demostrarlo por lo que he iniciado este Portafolio con una base que llevo construyendo desde el año 2020.
 
